@@ -1,0 +1,6 @@
+name: ZQEx-Test
+author: Zindev
+version: 0.1
+description: ZQEx-Test by Zindev
+depend: [ZQuest]
+main: me.Zindev.zqjmp.Main
